@@ -1,4 +1,4 @@
-# 📘 Address Book – PHP & MySQL CRUD Application
+# Address Book – PHP & MySQL CRUD Application
 
 A simple and beginner-friendly **Address Book web application** built using **PHP**, **MySQL**, and **Tailwind CSS**.  
 This project demonstrates the complete **CRUD (Create, Read, Update, Delete)** workflow.
@@ -22,4 +22,9 @@ This project demonstrates the complete **CRUD (Create, Read, Update, Delete)** w
 - **Backend:** PHP (Procedural)
 - **Database:** MySQL
 - **Server:** Apache (XAMPP / LAMP)
-- **Operating System** Ubuntu
+- ## **Operating System** Ubuntu
+
+## Author
+
+- Md Saiful Islam
+- PHP Intern

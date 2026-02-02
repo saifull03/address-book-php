@@ -9,7 +9,7 @@
     <!-- Tailwind css CDN  link -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-
+<!-- view  -->
 <body class="bg-gray-100 min-h-screen p-6">
 
     <!-- Main box of the view table -->
