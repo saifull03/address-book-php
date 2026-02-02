@@ -18,7 +18,7 @@ if (mysqli_num_rows($result) > 0) {
     exit();
 }
 
-// Inserts  the data if  the mail and phone in the are unique
+// Inserts  the data if  the mail and phone in the db are unique
 $sql = "INSERT INTO contacts (name, phone, email, address)
         VALUES ('$name', '$phone', '$email', '$address')";
 

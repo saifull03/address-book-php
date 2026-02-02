@@ -27,5 +27,4 @@ This project demonstrates the complete **CRUD (Create, Read, Update, Delete)** w
 ## Author
 
 **Md Saiful Islam**
-
 PHP Intern

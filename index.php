@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>Address Book</title>
 
-    <!-- Tailwind css CDN  link -->
+    <!-- Tailwind css cdn  link -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <!-- view  -->
