@@ -22,9 +22,10 @@ This project demonstrates the complete **CRUD (Create, Read, Update, Delete)** w
 - **Backend:** PHP (Procedural)
 - **Database:** MySQL
 - **Server:** Apache (XAMPP / LAMP)
-- ## **Operating System** Ubuntu
+- **Operating System** Ubuntu
 
 ## Author
 
-- Md Saiful Islam
-- PHP Intern
+**Md Saiful Islam**
+
+PHP Intern
