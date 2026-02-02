@@ -1,32 +1,25 @@
-# Address Book CRUD System (PHP & MySQL)
+# 📘 Address Book – PHP & MySQL CRUD Application
 
-This is a simple **Address Book web application** built using **PHP and MySQL**.  
-Users must **login** to use the system and can **add, view, edit, and delete contacts**.
+A simple and beginner-friendly **Address Book web application** built using **PHP**, **MySQL**, and **Tailwind CSS**.  
+This project demonstrates the complete **CRUD (Create, Read, Update, Delete)** workflow.
 
 ---
 
-##  Features
+## Features
 
-- User Registration & Login
-- Login required to access the system
 - Add new contacts
 - View all contacts
-- Edit contact information
-- Delete contacts
-- Prevent duplicate phone number and email
-- Modern UI using Tailwind CSS
+- Edit existing contact details
+- Delete contacts with confirmation
+- Modern and responsive UI using Tailwind CSS
+- Simple structure, easy to understand for beginners
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
-- PHP
-- MySQL
-- HTML
-- Tailwind CSS (CDN)
-- XAMPP (Local Server)
-
----
-
-## 📂 Project Structure
-
+- **Frontend:** HTML, Tailwind CSS
+- **Backend:** PHP (Procedural)
+- **Database:** MySQL
+- **Server:** Apache (XAMPP / LAMP)
+- **Operating System** Ubuntu
