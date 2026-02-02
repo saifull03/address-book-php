@@ -7,7 +7,7 @@ $phone = $_POST['phone'];
 $email = $_POST['email'];
 $address = $_POST['address'];
 
-// Check duplicates excluding current ID
+// checks the update data doesn't conflict with the exsisting data
 $check = "SELECT * FROM contacts 
           WHERE (phone='$phone' OR email='$email') AND id != $id";
 $result = mysqli_query($conn, $check);
